@@ -1,0 +1,6 @@
+pyparsing==2.4.7
+reportlab==3.5.34
+requests==2.22.0
+
+python-dateutil==2.7.3
+
